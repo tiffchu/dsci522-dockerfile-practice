@@ -27,4 +27,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
- note: this only covers the code you copied from Tiffany Timbers (docker-publish.yml)
+ note: this only covers the code copied from Tiffany Timbers (docker-publish.yml)
