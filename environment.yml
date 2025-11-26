@@ -2,7 +2,8 @@ name: dsci522
 channels:
   - conda-forge
 dependencies:
-  - python
-  - pandas
-  - conda-lock
+  - python=3.11
+  - pandas=2.2.*
+  - conda-lock=2.5.*
+  - scipy=1.16.*
 prefix: C:\Users\tiffa\miniforge3\envs\dsci522
